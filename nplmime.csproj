@@ -37,7 +37,7 @@
     <None Include="package.json" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="npl_packages\" />
+    <Folder Include="npl_mod\" />
     <Folder Include="Properties\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
